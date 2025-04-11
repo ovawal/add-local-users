@@ -7,7 +7,7 @@
 
 **3. Make your script executable**
 ```
-	sudo chmod 755 /usr/local/bin/add-user.sh
+	sudo chmod 744 /usr/local/bin/add-user.sh
 ```
 **4. Execute script with elevated privilages**
 ```
